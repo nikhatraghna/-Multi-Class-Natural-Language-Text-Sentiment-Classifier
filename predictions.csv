@@ -1,0 +1,46 @@
+text,label,predicted_label
+"The customer support team fixed my issue in under five minutes, amazing!",positive,positive
+I'm blown away by how well this blender works.,positive,positive
+"Best haircut I've had in years, the stylist really listened to me.",positive,positive
+"This hotel exceeded every expectation, we'll definitely be back.",positive,positive
+The onboarding process was smooth and the trainer was fantastic.,positive,positive
+"My kids loved the theme park, we had a wonderful day.",positive,positive
+The new update made the app so much faster and easier to use.,positive,positive
+I'm really impressed with the build quality of these headphones.,positive,positive
+"Dinner was absolutely delicious, the chef outdid himself tonight.",positive,neutral
+"The repair technician was punctual, polite, and fixed it on the first try.",positive,neutral
+This is hands down the best coffee shop in the neighborhood.,positive,positive
+"I felt so relaxed after the spa treatment, highly recommended.",positive,neutral
+The keynote speaker was engaging and full of practical insights.,positive,negative
+Shipping was fast and the packaging kept everything safe.,positive,positive
+I love how intuitive this software is for beginners.,positive,positive
+The airline lost my luggage and never apologized for it.,negative,negative
+This washing machine broke down after only three uses.,negative,neutral
+I've been on hold with support for over an hour with no answer.,negative,negative
+"The apartment was nothing like the photos, very disappointing.",negative,negative
+They charged me twice and refuse to issue a refund.,negative,negative
+The waiter was dismissive and clearly didn't want to help us.,negative,negative
+This phone overheats constantly and drains battery in hours.,negative,negative
+The concert started an hour late with no explanation given.,negative,negative
+I was misled about the return policy and now I'm stuck with a broken item.,negative,negative
+The gym equipment was outdated and half of it was out of order.,negative,negative
+"Terrible experience, the driver was rude and took the longest route.",negative,negative
+The software update wiped out all my saved settings.,negative,positive
+This restaurant served us cold food and ignored our complaints.,negative,negative
+The contractor left the job unfinished and stopped responding.,negative,positive
+"I regret signing up for this subscription, it's a complete letdown.",negative,negative
+The quarterly report is due by the fifteenth of next month.,neutral,neutral
+The office relocated to the third floor of the north building.,neutral,negative
+This model ships with a USB-C cable and a two-year warranty.,neutral,neutral
+The conference room can seat up to twenty people.,neutral,negative
+The bus route was changed to include two additional stops.,neutral,negative
+Employees can access the portal using their company email.,neutral,negative
+"The warehouse operates from Monday to Saturday, 8 AM to 5 PM.",neutral,neutral
+This printer supports both wireless and USB connections.,neutral,neutral
+The onboarding checklist includes five steps for new hires.,neutral,negative
+The store's inventory is updated every night at midnight.,neutral,negative
+The training session will cover chapters three through five.,neutral,negative
+This car model is available in four trim levels.,neutral,neutral
+The survey results will be published in next month's newsletter.,neutral,neutral
+The building's elevator is scheduled for maintenance on Friday.,neutral,negative
+Each package includes a user manual and a quick-start guide.,neutral,neutral
